@@ -1,0 +1,25 @@
+.top_contents, .h_contents {
+    text-align: center;
+}
+
+.top_contents > h5 {
+    margin: 0;
+}
+
+div.h_contents, .experience, .projects, .education {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
