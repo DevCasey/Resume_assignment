@@ -1,7 +1,6 @@
 .top_contents, .h_contents, .education {
     text-align: center;
 }
-
 .top_contents > h5 {
     margin: 0;
 }
@@ -35,5 +34,8 @@ a {
 }
 
 .education {
-    margin-top: 25px;
+    margin-top: 50px;
 }
+
+
+
